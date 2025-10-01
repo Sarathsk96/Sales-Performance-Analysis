@@ -8,6 +8,7 @@ File: Amazon Sales.csv
 Size: ~ (rows × columns – depends on actual dataset)
 
 **Key Columns:**
+
 Order ID – Unique identifier for each order
 
 Product Category – Product group/category
@@ -19,21 +20,35 @@ Quantity – Units sold
 Sales – Revenue from each order
 
 **⚙️ Tools & Technologies**
+
 Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Environment: Jupyter Notebook
 
 **🔍 Analysis Performed**
+
 Dataset Exploration – Shape, data types, summary statistics.
+
 Revenue Analysis – Total revenue generated.
+
 Sales Quantity – Total units sold.
+
 Order Trends – Number of unique orders.
+
 Average Order Value (AOV) – Revenue per order.
+
 Category Analysis – Highest-selling products and categories.
+
 Visualizations – Charts for revenue, sales quantity, and product performance.
 
 **📈 Key Insights**
+
 Total revenue and order volume trends help measure sales growth.
+
 Top categories/products contribute the majority of sales.
+
 Average order value provides insight into customer spending habits.
+
 Visualization reveals sales distribution across product categories.
