@@ -9,9 +9,13 @@ Size: ~ (rows × columns – depends on actual dataset)
 
 **Key Columns:**
 Order ID – Unique identifier for each order
+
 Product Category – Product group/category
+
 Order Date – Date of purchase
+
 Quantity – Units sold
+
 Sales – Revenue from each order
 
 **⚙️ Tools & Technologies**
